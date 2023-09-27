@@ -1,0 +1,28 @@
+[
+    {
+        "label": "library",
+        "importPath": "dbm.ndbm",
+        "description": "dbm.ndbm",
+        "isExtraImport": true,
+        "detail": "dbm.ndbm",
+        "documentation": {}
+    },
+    {
+        "label": "keyword",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "keyword",
+        "description": "keyword",
+        "detail": "keyword",
+        "documentation": {}
+    },
+    {
+        "label": "Shop",
+        "kind": 6,
+        "importPath": "customLibrary.Shop",
+        "description": "customLibrary.Shop",
+        "peekOfCode": "class Shop():\n    # def __init__(self):\n        @keyword\n        def Hello_World(self):\n            print(\"Hello\")",
+        "detail": "customLibrary.Shop",
+        "documentation": {}
+    }
+]
